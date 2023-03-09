@@ -1,5 +1,5 @@
 {
-    "name": "wame/string-limit",
+    "name": "pppcreative/string-limit",
     "description": "A Laravel Nova field.",
     "keywords": [
         "laravel",
@@ -11,13 +11,13 @@
     },
     "autoload": {
         "psr-4": {
-            "Wame\\StringLimit\\": "src/"
+            "Ppp\\StringLimit\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Wame\\StringLimit\\FieldServiceProvider"
+                "Ppp\\StringLimit\\FieldServiceProvider"
             ]
         }
     },

@@ -1,6 +1,6 @@
 <?php
 
-namespace Wame\StringLimit;
+namespace Ppp\StringLimit;
 
 use Laravel\Nova\Fields\Field;
 
