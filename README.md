@@ -1,7 +1,6 @@
 # Nova String Limit Field
 
 
-<img src="img.png">
 
 
 ## Installation
